@@ -1,0 +1,6 @@
+# Local edition (screening_room.py). Same pinned set as the cloud image.
+fastmcp==2.14.1
+mcp==1.24.0
+pydantic-settings==2.12.0
+yt-dlp[default,curl-cffi]==2026.8.19
+faster-whisper==1.2.1
